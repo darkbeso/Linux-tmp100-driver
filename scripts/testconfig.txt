@@ -1,0 +1,18 @@
+Audio file path|/home/users/mms00428/Documents/Vanio/
+Audio File Name|Creepy-music-box-twisted-lullaby.mp3
+
+Video File Path|/home/users/mms00428/Documents/Vanio/
+Video File Name|dolbycanyon.mp4
+
+Camera Name|org.codeaurora.snapcam
+
+WiFi:
+Networkscount|4
+NetworkSSID1|TP-LINK_1994_5G
+NetworkPass1|74249442
+NetworkSSID2|TP-LINK_1995
+NetworkPass2|74249442
+NetworkSSID3|Cisco_mms_5G
+NetworkPass3|xxxxlllll
+NetworkSSID4|Cisco_mms_2.4G
+NetworkPass4|xxxxlllll
