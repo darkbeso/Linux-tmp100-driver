@@ -1,0 +1,18 @@
+/dts-v1/;
+#include "sun8i-h2-plus-orangepi-zero.dts"
+
+/ {
+	compatible = "xunlong,orangepi-zero", "allwinner,sun8i-h2-plus";
+};
+
+&i2c0 {
+	status = "okay";
+	bus_freq = <100000>;
+
+	tmp100@48 {
+		model = "TI TMP100";
+		compatible = "TI, TMP100";
+		reg = <0x48>;
+	};
+};
+
